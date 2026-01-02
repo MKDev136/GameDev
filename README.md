@@ -1,19 +1,34 @@
-# GameDev
+<h1 style="color:#4f5dff;">🎮 GameDev</h1>
 
-All of my projects related to game developement written in:
+<p>
+  All of my projects related to <strong>game development</strong>, written in:
+</p>
 
-- Java
-- Python
+<ul>
+  <li><strong>Java</strong></li>
+  <li><strong>Python</strong></li>
+</ul>
 
-List of projects:
+<hr>
 
+<h2 style="color:#8be9fd;">🐍 Python Projects</h2>
 
-Python
+<h3>🗡️ Zelda Clone</h3>
 
-Zelda clone (assets from ClearCode)
+<p style="color:gray; font-size:14px;">
+  Assets from ClearCode
+</p>
 
-Enhanced version of the tutorial with way more features
+<p>
+  Enhanced version of the tutorial with many additional features and improvements.
+</p>
 
-4/5 stars
+<p>
+  ⭐ <strong>Rating:</strong> 4 / 5
+</p>
 
-https://https://github.com/MKDev136/GameDev/Python/Zelda
+<p>
+  🔗 <a href="https://github.com/MKDev136/GameDev/tree/main/Python/Zelda">
+    View on GitHub
+  </a>
+</p>
